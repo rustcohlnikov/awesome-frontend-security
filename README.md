@@ -1,4 +1,4 @@
-# Awesome Frontend Security
+# Awesome Frontend Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 > 💜A curated list of tools, articles &amp; resources to help take your frontend security to the next level.
 > Feel free to contribute!
 
