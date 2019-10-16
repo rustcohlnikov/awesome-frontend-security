@@ -3,19 +3,25 @@
 
 ## Contents
 - [Articles](#articles)
+- [Linters](#linters)
+  - [ESlint](#eslint)
+- [Dependency audit](#audit)
+- [Services](#services)
 - [Tools](#tools)
-  - [Linters](#linters)
-  - [Dependency audit](#audit)
 - [Other lists](#other-lists)
   
 ## Articles
 
+## CI / CD
+
+## Linters
+### ESlint
+
+## Audit
+
+## Services
+
 ## Tools
-
-### Linters
-### Audit
-### Plugins
-
 
 ## Other lists
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) – A curated list of Web Security materials and resources.
