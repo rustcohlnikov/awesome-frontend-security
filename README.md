@@ -9,10 +9,9 @@
   - [Serializers](#serializers)
 - [Dependencies](#dependencies)
 - [Headers](#headers)
-  - [Content Security Policy](#content-security-policy)
+  - [Content-Security-Policy](#content-security-policy)
   - [X-Frame-Options](#x-frame-options)
   - [X-XSS-Protection](#x-xss-protection)
-- [Articles](#articles)
 - [Other lists](#other-lists)
 
 
@@ -39,7 +38,7 @@
 #### 🧪Create
 - [Webpack CSP configuration](https://webpack.js.org/guides/csp/) - Webpack is capable of adding nonce(number used once) to all scripts that it loads.
 - [`csp-html-webpack-plugin`](https://github.com/slackhq/csp-html-webpack-plugin) - Generates meta content for your Content Security Policy tag.
-- [CSP Hash Generator](https://report-uri.com/home/hash) – Script and style hasher for `script-src` and `style-src` directives to disallow inline scripts and styles. More [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/script-src#Unsafe_inline_script).
+- [CSP Hash Generator](https://report-uri.com/home/hash) - Script and style hasher for `script-src` and `style-src` directives to disallow inline scripts and styles. More [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/script-src#Unsafe_inline_script).
 
 #### 🔍Validate
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/) - Paste your policy and check if its safe and strong enough.
@@ -57,9 +56,10 @@
 #### 📚Learn
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection) - An article on MDN.
 
-## Articles
-
 ## Other lists
 - [OWASP Web Application Security Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 - [CSP useful](https://github.com/nico3333fr/CSP-useful) - A collection of parsers, examples and tips for Content Security Policy.
-- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) – A curated list of Web Security materials and resources.
+- [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
