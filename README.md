@@ -1,5 +1,5 @@
 # Awesome Frontend Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-> 💜A curated list of tools, articles &amp; resources to help take your frontend security to the next level.
+> 💜 A curated list of tools, articles &amp; resources to help take your frontend security to the next level.
 > Feel free to contribute!
 
 ## Contents
@@ -33,32 +33,33 @@
 
 ## Headers
 ### Content-Security-Policy 
-#### Learn
+#### 📚Learn
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) - An article on MDN.
 
-#### Create
+#### 🧪Create
 - [Webpack CSP configuration](https://webpack.js.org/guides/csp/) - Webpack is capable of adding nonce(number used once) to all scripts that it loads.
 - [`csp-html-webpack-plugin`](https://github.com/slackhq/csp-html-webpack-plugin) - Generates meta content for your Content Security Policy tag.
 - [CSP Hash Generator](https://report-uri.com/home/hash) – Script and style hasher for `script-src` and `style-src` directives to disallow inline scripts and styles. More [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/script-src#Unsafe_inline_script).
 
-#### Validate
+#### 🔍Validate
 - [CSP Evaluator](https://csp-evaluator.withgoogle.com/) - Paste your policy and check if its safe and strong enough.
 - [CSP Header Inspector](https://cspvalidator.org) - Validate your policies as served from the given URL.
 - [CSP Tester](https://github.com/yandex/csp-tester) - Browser extension for testing Content Security Policy (CSP).
 
-#### Analyse
+#### 🤔Analyse
 - [CSP WTF?](https://github.com/nico3333fr/CSP-useful/blob/master/csp-wtf/explained.md) - Explanations for strange CSP Report notifications.
 
 ### X-Frame-Options 
-#### Learn
+#### 📚Learn
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options) - An article on MDN.
 
 ### X-XSS-Protection 
-#### Learn
+#### 📚Learn
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection) - An article on MDN.
 
 ## Articles
 
 ## Other lists
+- [OWASP Web Application Security Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 - [CSP useful](https://github.com/nico3333fr/CSP-useful) - A collection of parsers, examples and tips for Content Security Policy.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) – A curated list of Web Security materials and resources.
