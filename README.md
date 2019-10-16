@@ -5,6 +5,8 @@
 ## Contents
 - [Code](#code)
   - [Linters](#linters)
+  - [Sanitizers](#sanitizers)
+  - [Serializers](#serializers)
 - [Dependencies](#dependencies)
 - [Headers](#headers)
   - [Content Security Policy](#content-security-policy)
@@ -16,6 +18,12 @@
 ### Linters
 - [`eslint-config-sec`](https://github.com/rustcohlnikov/eslint-config-sec) - Linting rules for safe and secure client code
 - [`eslint-plugin-security`](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
+
+### Sanitizers
+- [`sanitize-html`](https://github.com/apostrophecms/sanitize-html) - Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis.
+
+### Serializers
+- [`serialize-javascript`](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions and functions.
 
 ## Dependencies
 - [`audit-ci`](https://github.com/IBM/audit-ci) - Audit NPM and Yarn dependencies in continuous integration environments, preventing integration if vulnerabilities are found above a configurable level
