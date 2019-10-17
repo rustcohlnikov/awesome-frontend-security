@@ -63,13 +63,13 @@
 #### 📚Learn
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-XSS-Protection) - An article on MDN.
 
+## Articles
+- [Cybersecurity threatscape](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q2/) - Positive Technologies' quarter report on cyber threats and recommendations on how to stay safe.
+
 ## Other lists
 - [OWASP Web Application Security Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 - [CSP useful](https://github.com/nico3333fr/CSP-useful) - A collection of parsers, examples and tips for Content Security Policy.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
-
-## Articles
-- [Cybersecurity threatscape](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q2/) - Positive Technologies' quarter report on cyber threats and recommendations on how to stay safe.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
