@@ -1,6 +1,5 @@
-# Awesome FE Security [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
-> 💜 A curated list of tools, articles &amp; resources to help take your frontend security to the next level.
-> Feel free to contribute!
+![cover](/logo.png)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
 - [Code](#code)
