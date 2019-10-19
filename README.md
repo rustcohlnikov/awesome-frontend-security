@@ -1,4 +1,5 @@
-![cover](/logo.png)
+<p><img src="/logo.png" alt="awesome-frontend-security" srcset="/logo.png 2x"/></p>
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
