@@ -17,7 +17,9 @@
 
 
 ## Code
+- [JavaScript Secure Coding Practices](https://checkmarx.gitbooks.io/js-scp/content/) - A guide written for anyone who is using the JavaScript for web development.
 - [Security Policy](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository) - How to add a security policy to your Github repository.
+- [AJAX Security Cheatsheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/AJAX_Security_Cheat_Sheet.md) - A starting point for AJAX security.
 
 ### Linters
 - [`eslint-plugin-security`](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
@@ -34,10 +36,11 @@
 ## Dependencies
 - [`audit-ci`](https://github.com/IBM/audit-ci) - NPM and Yarn dependencies audit for CI/CD.
 - [`dtrack-audit`](https://github.com/ozonru/dtrack-audit) - OWASP Dependency Track API client for CI/CD.
-- [Github Automated Security Fixes](https://help.github.com/en/articles/configuring-automated-security-fixes) - use automated or manual pull requests to easily update vulnerable dependencies.
+- [Github Automated Security Fixes](https://help.github.com/en/articles/configuring-automated-security-fixes) - How to use automated or manual pull requests to easily update vulnerable dependencies.
+- [Vulnerable Dependency Management](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md#tools) - About tools for detecting vulnerable third-party dependencies.
 
 ## Headers
-- [Security Headers](https://securityheaders.com/) - check your website's HTTP response headers for security.
+- [Security Headers](https://securityheaders.com/) - Check your website's HTTP response headers for security.
 
 ### Content-Security-Policy 
 #### 📚Learn
@@ -66,11 +69,11 @@
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options) - An article on MDN.
 
 ## Articles
+- [Trusted Types help prevent Cross-Site Scripting](https://developers.google.com/web/updates/2019/02/trusted-types) - About new browser API that might help obliterate DOM XSS.
 - [Cybersecurity threatscape](https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2019-q2/) - Positive Technologies' quarter report on cyber threats and recommendations on how to stay safe.
 - [The Most Common XSS Vulnerability in React.js Applications](https://medium.com/node-security/the-most-common-xss-vulnerability-in-react-js-applications-2bdffbcc1fa0)
 
 ## Other lists
-- [OWASP Web Application Security Checklist](https://github.com/0xRadi/OWASP-Web-Checklist)
 - [CSP useful](https://github.com/nico3333fr/CSP-useful) - A collection of parsers, examples and tips for Content Security Policy.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 
