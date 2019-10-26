@@ -46,6 +46,7 @@
 #### 📚Learn
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) - An article on MDN.
 - [CSP Is Dead, Long Live CSP!](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45542.pdf) - On the Insecurity of Whitelists and the Future of Content Security Policy.
+- [Strict CSP](https://csp.withgoogle.com/docs/strict-csp.html) - To get real value out of CSP, your policy must prevent the execution of untrusted scripts.
 
 #### 🧪Create
 - [Webpack CSP configuration](https://webpack.js.org/guides/csp/) - Webpack is capable of adding nonce(number used once) to all scripts that it loads.
